@@ -2,12 +2,14 @@
 
 ## 1. Target System Overview
 * **Device Name:** iPhone 14 Pro
-* **Current Repairability / DFD Score:** 6/10 (High adhesive density & multi-screw friction)
-* **Target Sub-system:** Lithium-Ion Battery & Perimeter Housing Assembly
-* **Primary Failure Modes in Teardown:**
-  1. High risk of pull-tab snapping requiring chemical solvent (IPA).
-  2. Multi-drive fastener clutter (Pentalobe, Tri-point Y000, Phillips #00) forcing tool switches.
-  3. Continuous perimeter liquid glue requiring display thermal baking.
+* **Repairability Score:** 6/10 | **DFD Grade:** C+ (Moderate Entry Complexity & High Adhesive Friction)
+* **Estimated Disassembly Time & Labor Friction:** ~35–45 minutes | Moderate-High
+* **Target Sub-system:** Lithium-Ion Battery, Display Interface & Perimeter Housing
+* **Primary Structural Flaws:**
+  1. **Flaw 1:** Continuous perimeter liquid adhesive requiring high-heat display baking.
+  2. **Flaw 2:** Stretch-release battery adhesive strips prone to tearing and chemical dependency (IPA).
+  3. **Flaw 3:** Fastener proliferation (Pentalobe, Tri-point Y000, Phillips #00) causing high tool latency.
+  4. **Flaw 4:** Multi-bracket shield clutter over press-fit ZIF flex connectors.
 
 ---
 
