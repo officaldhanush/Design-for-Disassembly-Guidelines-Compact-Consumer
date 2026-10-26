@@ -35,3 +35,5 @@ An open-source Design for Excellence (DfX) specification and Design Rule Check (
 ---
 
 *Maintained as part of ongoing Design for Disassembly (DFD) teardown audits and circular hardware engineering research.*
+
+* [DFD Study Log 01: iPhone 14 Pro (Engineering Redesign Architecture)](./log-01-iphone-14-pro.md)
