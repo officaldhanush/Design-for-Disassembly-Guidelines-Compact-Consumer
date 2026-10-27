@@ -39,3 +39,4 @@ An open-source Design for Excellence (DfX) specification and Design Rule Check (
 ## 📂DFD Teardown Case Studies & Redesigns
 
 * [DFD Study Log 01: iPhone 14 Pro (Engineering Redesign Architecture)](./log-01-iphone-14-pro.md)
+* [DFD Study Log 02: iPhone 15 (Engineering Redesign Architecture)](./log-02-iphone-15.md)
