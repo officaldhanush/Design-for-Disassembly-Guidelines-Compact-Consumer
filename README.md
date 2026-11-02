@@ -44,3 +44,4 @@ An open-source Design for Excellence (DfX) specification and Design Rule Check (
 * [DFD Study Log 04: Nothing ear 1 (Engineering Redesign Architecture)](./log-04-nothing-ear-1.md)
 * [DFD Study Log 05: Samsung Galaxy S25 ultra (Engineering Redesign Architecture)](./log-05-samsung-galaxy-s25-ultra.md)
 * [DFD Study Log 06: iPhone 13 Pro Max (Engineering Redesign Architecture)](./log-06-iphone-13-pro-max.md)
+* [DFD Study Log 07: Macbook Air M1 (Engineering Redesign Architecture)](./log-07-macbook-air-m1.md)
