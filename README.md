@@ -49,3 +49,4 @@ An open-source Design for Excellence (DfX) specification and Design Rule Check (
 * [DFD Study Log 09: Nintendo Switch 2 (Engineering Redesign Architecture)](./log-09-nintendo-switch-2.md)
 * [DFD Study Log 10: Google Pixel Watch 4 (Engineering Redesign Architecture)](./log-10-google-pixel-watch-4.md)
 * [DFD Study Log 11: Google Pixel 7a (Engineering Redesign Architecture)](./log-11-google-pixel-7a.md)
+* [DFD Study Log 12: Nothing Phone 1 (Engineering Redesign Architecture)](./log-12-nothing-phone-1.md)
