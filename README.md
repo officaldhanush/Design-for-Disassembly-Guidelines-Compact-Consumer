@@ -52,3 +52,4 @@ An open-source Design for Excellence (DfX) specification and Design Rule Check (
 * [DFD Study Log 12: Nothing Phone 1 (Engineering Redesign Architecture)](./log-12-nothing-phone-1.md)
 * [DFD Study Log 13: Xbox Series X (Engineering Redesign Architecture)](./log-13-xbox-series-x.md)
 * [DFD Study Log 14: Nintendo Switch Joy-Con (Engineering Redesign Architecture)](./log-14-nintendo-switch-joycon.md)
+* [DFD Study Log 15: Sony DualSense Wireless Controller (Engineering Redesign Architecture)](./log-15-sony-dualsense.md)
